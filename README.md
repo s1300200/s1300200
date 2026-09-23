@@ -10,13 +10,10 @@
 - GitHub: `s1300200`
 - Graduate student at NAIST(Nara Institute of Science and Technology)
 - Interests: AI, machine learning, medical NLP, and backend development
-- Style: clarify the problem, build the model or system, evaluate, and improve
 
 ## What I'm doing
 
 - Researching medical NLP and how LLMs understand subjective expressions
-- Building practical AI systems, from data preparation and modeling to API development
-- Learning how to connect research ideas with real product value
 
 ## Tech I enjoy
 
